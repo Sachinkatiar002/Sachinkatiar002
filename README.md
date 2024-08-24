@@ -1,22 +1,13 @@
 
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinkatiar002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinkatiar002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
 <h1 align="center">Hi 👋, I'm Sachin Mahato</h1>
-<h3 align="center">A passionate Mern stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkatiar002&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkatiar002" /> </p>
+
 
 - 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **sachinkatiar@gmail.com**
 
